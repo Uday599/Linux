@@ -1,0 +1,5 @@
+cd /d/vagrant-vms/centos7
+
+vagrant up  -- to power on VM
+vagrant ssh  -- to connect VM
+vagrant halt --to stop machine
